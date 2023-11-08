@@ -31,18 +31,26 @@ Step 9.:- After completing the all setting then click the Slice option and expor
 
 Step 10.:- After generate the gcode format then follow the these instruction 
   ●	Switch on the 3d printer.
+  
   ●	Place your Pen drive in USB.
+  
   ●	Clean your surface bed plate.
+  
   ●	Load your filament into the required extruder as per the requirement.
+  
   ●	Wait until the nozzle & bed plate comes into the required temperature.
+  
   ●	Close the doors of the 3d printer.
+  
   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
 ![243181166-ea8ba611-8ed7-4edc-ace7-bcf5fb9709d7](https://github.com/Kowsalyasathya/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118671457/c2d12bba-e712-43d3-858b-6c464263121a)
 ### Output:
 ![243181171-d7a6e0ae-9e32-4296-8aa0-65dd2d30f9b3](https://github.com/Kowsalyasathya/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118671457/a590c143-15d5-439a-bc7d-b5852fc682e3)
+```
 Name: Kowsalya M
 Register Number: 212222230069
+```
 ## Result:
 Thus the given product is reverse engineered and prototyped using 3D Printer.
