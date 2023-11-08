@@ -22,8 +22,7 @@ Step 6.:- Select the Pan option and select the extruder (left or right) for prin
 
 Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
 
-Step 8.:- select the Scale option for design scale according to build tack plate area and then
-after click the start option and select printing option standard as shown in below figure.
+Step 8.:- select the Scale option for design scale according to build tack plate area and then after click the start option and select printing option standard as shown in below figure.
 
 Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.After generate the gcode format then follow the these instruction. 
   ●	Switch on the 3d printer.
