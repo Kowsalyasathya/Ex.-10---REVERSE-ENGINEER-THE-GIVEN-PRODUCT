@@ -43,7 +43,6 @@ Step 10.:- After generate the gcode format then follow the these instruction
   ●	Close the doors of the 3d printer.
   
   ●	Open the file from the USB storage and select the Print option.
-
 ## Input:
 ![243181166-ea8ba611-8ed7-4edc-ace7-bcf5fb9709d7](https://github.com/Kowsalyasathya/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118671457/c2d12bba-e712-43d3-858b-6c464263121a)
 ### Output:
